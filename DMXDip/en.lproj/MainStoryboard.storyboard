@@ -28,8 +28,8 @@
                         </subviews>
                         <color key="backgroundColor" white="0.13410408269999999" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="sUb-OM-WIJ" firstAttribute="top" secondItem="3" secondAttribute="top" constant="191" id="8Vv-4x-z1b"/>
                             <constraint firstItem="sUb-OM-WIJ" firstAttribute="centerX" secondItem="3" secondAttribute="centerX" type="default" id="ggx-jI-rLt"/>
-                            <constraint firstItem="sUb-OM-WIJ" firstAttribute="top" secondItem="3" secondAttribute="top" constant="224" id="z8l-zZ-mdV"/>
                         </constraints>
                     </view>
                 </viewController>

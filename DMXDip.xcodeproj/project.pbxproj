@@ -24,6 +24,8 @@
 		EB96565917185293002EC908 /* dip-on.png in Resources */ = {isa = PBXBuildFile; fileRef = EB96565317185293002EC908 /* dip-on.png */; };
 		EB96565A17185293002EC908 /* dip-up.png in Resources */ = {isa = PBXBuildFile; fileRef = EB96565417185293002EC908 /* dip-up.png */; };
 		EB96565B17185293002EC908 /* lcd.png in Resources */ = {isa = PBXBuildFile; fileRef = EB96565517185293002EC908 /* lcd.png */; };
+		EB96566117185A89002EC908 /* icon@x2.png in Resources */ = {isa = PBXBuildFile; fileRef = EB96566017185A89002EC908 /* icon@x2.png */; };
+		EB96566317185A8F002EC908 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EB96566217185A8E002EC908 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +52,8 @@
 		EB96565317185293002EC908 /* dip-on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dip-on.png"; sourceTree = "<group>"; };
 		EB96565417185293002EC908 /* dip-up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dip-up.png"; sourceTree = "<group>"; };
 		EB96565517185293002EC908 /* lcd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lcd.png; sourceTree = "<group>"; };
+		EB96566017185A89002EC908 /* icon@x2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@x2.png"; sourceTree = "<group>"; };
+		EB96566217185A8E002EC908 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,8 @@
 		EB9656011718104D002EC908 = {
 			isa = PBXGroup;
 			children = (
+				EB96566217185A8E002EC908 /* icon.png */,
+				EB96566017185A89002EC908 /* icon@x2.png */,
 				EB9656131718104D002EC908 /* DMXDip */,
 				EB96560C1718104D002EC908 /* Frameworks */,
 				EB96560B1718104D002EC908 /* Products */,
@@ -212,6 +218,8 @@
 				EB96565917185293002EC908 /* dip-on.png in Resources */,
 				EB96565A17185293002EC908 /* dip-up.png in Resources */,
 				EB96565B17185293002EC908 /* lcd.png in Resources */,
+				EB96566117185A89002EC908 /* icon@x2.png in Resources */,
+				EB96566317185A8F002EC908 /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
